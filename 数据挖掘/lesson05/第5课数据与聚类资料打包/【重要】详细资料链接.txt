@@ -1,0 +1,33 @@
+* K-Means++资料：
+https://github.com/endymecy/spark-ml-source-analysis/blob/master/%E8%81%9A%E7%B1%BB/k-means/k-means.md
+http://coolshell.cn/articles/7779.html
+http://www.cnblogs.com/shelocks/archive/2012/12/20/2826787.html
+https://github.com/sumnous/MLlearn/blob/master/kmeans%2B%2B.py
+
+* 聚类系列文章：
+http://blog.pluskid.org/?tag=clustering
+
+* Spark GraphX：
+https://spark.apache.org/docs/1.2.0/api/java/org/apache/spark/graphx/
+https://amplab.cs.berkeley.edu/wp-content/uploads/2014/02/graphx@strata2014_final.pdf
+https://databricks-training.s3.amazonaws.com/slides/graphx@sparksummit_2014-07.pdf
+
+* Python版GraphX代替-GraphFrames：
+https://databricks.com/blog/2016/03/03/introducing-graphframes.html
+http://graphframes.github.io/user-guide.html
+
+* LPA算法介绍文章：
+https://greatpowerlaw.wordpress.com/2013/02/08/community-detection-lpa/
+GraphX实现LPA介绍文章：http://blog.csdn.net/shangwen_/article/details/39100525
+http://graphframes.github.io/user-guide.html#label-propagation-algorithm-lpa
+
+* Anti-spam这块没有很多公开资料，知乎有两个回答还不错：
+https://www.zhihu.com/question/20103086
+http://www.zhihujingxuan.com/26818.html
+
+* 金融反欺诈：
+http://www.csdn.net/article/2015-05-18/2824689
+http://www.infoq.com/cn/articles/Application-of-Knowledge-Graph
+http://www.argyledata.com/files/FightingFutureFraud-eBook.pdf
+http://chuansong.me/n/1092747
+

@@ -1,0 +1,1 @@
+https://bitbucket.org/taynaud/python-louvain/get/tip.tar.gz
